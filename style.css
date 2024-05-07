@@ -1,0 +1,22 @@
+/* style.css */
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#time {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+}
+body{
+    background-color: aqua;
+}
